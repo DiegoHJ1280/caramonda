@@ -130,3 +130,7 @@
 [05:14:09] [Server thread/INFO]: [Not Secure] <diegorompecks> 285 -244
 [05:17:54] [Server thread/INFO]: Villager class_1646['Fletcher'/57604, l='ServerLevel[Mundo nuevo]', x=241.30, y=131.00, z=-358.50] died, message: 'Fletcher was slain by Zombie'
 [05:25:34] [Server thread/INFO]: [Not Secure] <diegorompecks> -95 -500
+[05:29:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=-460} class_2338{x=-41, y=65, z=-460}
+[05:29:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=-460} class_2338{x=-42, y=64, z=-460}
+[05:31:02] [Server thread/INFO]: Zodiac_I1 lost connection: Disconnected
+[05:31:02] [Server thread/INFO]: Zodiac_I1 left the game
