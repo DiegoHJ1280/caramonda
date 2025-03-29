@@ -65,3 +65,11 @@
 [17:07:19] [Server thread/INFO]: [Not Secure] <diegorompecks> y malos
 [17:09:35] [Server thread/INFO]: [Not Secure] <diegorompecks> discord
 [17:10:12] [Server thread/INFO]: [Not Secure] <panconcafe68> agarra ps
+[17:16:55] [Server thread/INFO]: elnegro15 has made the advancement [Sweet Dreams]
+[17:18:17] [Server thread/INFO]: elnegro15 lost connection: Disconnected
+[17:18:17] [Server thread/INFO]: elnegro15 left the game
+[17:23:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=227, y=134, z=-389} class_2338{x=225, y=134, z=-389}
+[17:23:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=226, y=132, z=-387} class_2338{x=225, y=132, z=-387}
+[17:23:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=226, y=132, z=-386} class_2338{x=225, y=132, z=-387}
+[17:23:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=226, y=132, z=-385} class_2338{x=225, y=132, z=-387}
+[17:23:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=226, y=132, z=-387} class_2338{x=225, y=132, z=-387}
