@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-03-29 04:47:42 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-28 00:35:28 +0000",
       "minecraft:snowy_slopes": "2025-03-29 04:13:15 +0000",
       "minecraft:beach": "2025-03-28 17:57:48 +0000",
@@ -2463,6 +2464,12 @@
   "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-03-29 04:22:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-03-29 04:46:47 +0000"
     },
     "done": true
   },

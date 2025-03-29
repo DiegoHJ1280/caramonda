@@ -123,3 +123,8 @@
 [04:30:15] [Server thread/INFO]: panconcafe68 joined the game
 [04:31:13] [Server thread/INFO]: [Not Secure] <diegorompecks> paa dnd subimos
 [04:39:46] [Server thread/INFO]: [Not Secure] <diegorompecks> 950 -1321
+[04:47:36] [Server thread/INFO]: [Not Secure] <Zodiac_I1> 245 114 -439
+[04:56:45] [Server thread/INFO]: Villager class_1646['Fletcher'/40945, l='ServerLevel[Mundo nuevo]', x=241.30, y=131.00, z=-358.50] died, message: 'Fletcher was slain by Zombie'
+[04:59:51] [Server thread/INFO]: Villager class_1646['Fletcher'/40946, l='ServerLevel[Mundo nuevo]', x=241.30, y=131.00, z=-356.50] died, message: 'Fletcher was slain by Zombie'
+[05:08:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=294, y=131, z=-343} class_2338{x=294, y=130, z=-344}
+[05:14:09] [Server thread/INFO]: [Not Secure] <diegorompecks> 285 -244
