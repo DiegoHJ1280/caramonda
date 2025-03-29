@@ -8,7 +8,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-03-29 02:32:44 +0000",
+      "minecraft:beach": "2025-03-29 03:34:26 +0000",
       "minecraft:forest": "2025-03-29 01:01:22 +0000",
+      "minecraft:ocean": "2025-03-29 03:34:39 +0000",
       "minecraft:river": "2025-03-29 01:01:52 +0000",
       "minecraft:grove": "2025-03-29 01:22:39 +0000",
       "minecraft:meadow": "2025-03-29 01:02:54 +0000",
@@ -392,7 +394,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-29 01:28:09 +0000",
-      "minecraft:zombie": "2025-03-29 02:00:54 +0000"
+      "minecraft:zombie": "2025-03-29 02:00:54 +0000",
+      "minecraft:creeper": "2025-03-29 03:39:11 +0000"
     },
     "done": false
   },
