@@ -134,3 +134,4 @@
 [05:29:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=-460} class_2338{x=-42, y=64, z=-460}
 [05:31:02] [Server thread/INFO]: Zodiac_I1 lost connection: Disconnected
 [05:31:02] [Server thread/INFO]: Zodiac_I1 left the game
+[05:52:23] [Server thread/INFO]: Villager class_1646['Librarian'/70596, l='ServerLevel[Mundo nuevo]', x=241.30, y=131.00, z=-332.50] died, message: 'Librarian was slain by Zombie'
