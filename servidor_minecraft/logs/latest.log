@@ -48,3 +48,6 @@
 [03:03:32] [Server thread/INFO]: panconcafe68 has made the advancement [Local Brewery]
 [03:05:57] [Server thread/INFO]: Villager class_1646['Fletcher'/122, l='ServerLevel[Mundo nuevo]', x=241.30, y=131.00, z=-356.50] died, message: 'Fletcher was slain by Zombie'
 [03:06:26] [Server thread/INFO]: Villager class_1646['Fletcher'/120, l='ServerLevel[Mundo nuevo]', x=241.30, y=131.00, z=-358.50] died, message: 'Fletcher was slain by Zombie'
+[03:17:47] [Server thread/INFO]: Villager class_1646['Fletcher'/117, l='ServerLevel[Mundo nuevo]', x=240.70, y=131.00, z=-348.63] died, message: 'Fletcher was slain by Zombie'
+[03:25:00] [Server thread/INFO]: Villager class_1646['Fletcher'/10323, l='ServerLevel[Mundo nuevo]', x=241.30, y=131.00, z=-358.50] died, message: 'Fletcher was slain by Zombie'
+[03:25:15] [Server thread/INFO]: Villager class_1646['Fletcher'/10288, l='ServerLevel[Mundo nuevo]', x=241.30, y=131.00, z=-354.50] died, message: 'Fletcher was slain by Zombie'
