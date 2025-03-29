@@ -1,161 +1,27 @@
-[02:35:37] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
-[02:35:37] [main/INFO]: Loading 4 mods:
+[15:33:08] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[15:33:08] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21.1
-[02:35:38] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/caramonda/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[02:35:46] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:35:49] [main/INFO]: Loaded 1290 recipes
-[02:35:49] [main/INFO]: Loaded 1399 advancements
-[02:35:50] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[02:35:50] [Server thread/INFO]: Loading properties
-[02:35:50] [Server thread/INFO]: Default game type: SURVIVAL
-[02:35:50] [Server thread/INFO]: Generating keypair
-[02:35:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:35:50] [Server thread/INFO]: Using epoll channel type
-[02:35:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:35:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:35:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:35:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:35:50] [Server thread/INFO]: Preparing level "world"
-[02:35:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:35:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:35:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:35:56] [Worker-Main-3/INFO]: Preparing spawn area: 6%
-[02:35:56] [Server thread/INFO]: Time elapsed: 1469 ms
-[02:35:56] [Server thread/INFO]: Done (6.416s)! For help, type "help"
-[02:36:00] [Server thread/INFO]: negro147[/127.84.73.252:37117] logged in with entity id 30 at (48.65180981884182, 87.25220334025373, -422.0390202002351)
-[02:36:00] [Server thread/INFO]: negro147 joined the game
-[02:36:02] [Server thread/INFO]: diegorompecks[/127.39.20.82:51445] logged in with entity id 89 at (244.4360618845282, 132.0, -358.2724750705323)
-[02:36:02] [Server thread/INFO]: diegorompecks joined the game
-[02:36:02] [Server thread/INFO]: piolin_14[/127.84.73.252:45809] logged in with entity id 107 at (12.161563846740737, 57.189450373297575, -76.05764976346191)
-[02:36:02] [Server thread/INFO]: piolin_14 joined the game
-[02:36:02] [Server thread/INFO]: Zodiac_I1[/127.27.221.59:47229] logged in with entity id 108 at (268.03863241894237, 102.0, -560.3465630744398)
-[02:36:02] [Server thread/INFO]: Zodiac_I1 joined the game
-[02:36:03] [Server thread/INFO]: panconcafe68[/127.84.73.252:33547] logged in with entity id 128 at (0.18166934838307663, 61.121296840539195, -73.21211746336839)
-[02:36:03] [Server thread/INFO]: panconcafe68 joined the game
-[02:36:57] [Server thread/INFO]: [Not Secure] <diegorompecks> 257 -359
-[02:40:43] [Server thread/INFO]: [Not Secure] <piolin_14> me voy
-[02:40:45] [Server thread/INFO]: piolin_14 lost connection: Disconnected
-[02:40:45] [Server thread/INFO]: piolin_14 left the game
-[02:40:46] [Server thread/INFO]: [Not Secure] <diegorompecks> carbon
-[02:54:07] [Server thread/INFO]: [Not Secure] <negro147> LA CABRA
-[02:54:10] [Server thread/INFO]: [Not Secure] <diegorompecks> goattt
-[02:54:17] [Server thread/INFO]: [Not Secure] <negro147> elpessi
-[02:57:02] [Server thread/INFO]: [Not Secure] <diegorompecks> DUERMAN
-[02:57:13] [Server thread/INFO]: [Not Secure] <negro147> duerme mmgvo blanco
-[03:03:32] [Server thread/INFO]: panconcafe68 has made the advancement [Local Brewery]
-[03:05:57] [Server thread/INFO]: Villager class_1646['Fletcher'/122, l='ServerLevel[Mundo nuevo]', x=241.30, y=131.00, z=-356.50] died, message: 'Fletcher was slain by Zombie'
-[03:06:26] [Server thread/INFO]: Villager class_1646['Fletcher'/120, l='ServerLevel[Mundo nuevo]', x=241.30, y=131.00, z=-358.50] died, message: 'Fletcher was slain by Zombie'
-[03:17:47] [Server thread/INFO]: Villager class_1646['Fletcher'/117, l='ServerLevel[Mundo nuevo]', x=240.70, y=131.00, z=-348.63] died, message: 'Fletcher was slain by Zombie'
-[03:25:00] [Server thread/INFO]: Villager class_1646['Fletcher'/10323, l='ServerLevel[Mundo nuevo]', x=241.30, y=131.00, z=-358.50] died, message: 'Fletcher was slain by Zombie'
-[03:25:15] [Server thread/INFO]: Villager class_1646['Fletcher'/10288, l='ServerLevel[Mundo nuevo]', x=241.30, y=131.00, z=-354.50] died, message: 'Fletcher was slain by Zombie'
-[03:25:51] [Server thread/INFO]: Villager class_1646['Fletcher'/10282, l='ServerLevel[Mundo nuevo]', x=241.30, y=131.00, z=-356.50] died, message: 'Fletcher was slain by Zombie'
-[03:34:34] [Server thread/INFO]: Villager class_1646['Fletcher'/15739, l='ServerLevel[Mundo nuevo]', x=241.70, y=131.00, z=-352.50] died, message: 'Fletcher was slain by Zombie'
-[03:34:34] [Server thread/INFO]: Villager class_1646['Fletcher'/15434, l='ServerLevel[Mundo nuevo]', x=241.30, y=131.00, z=-358.50] died, message: 'Fletcher was slain by Zombie'
-[03:34:49] [Server thread/INFO]: Villager class_1646['Fletcher'/15773, l='ServerLevel[Mundo nuevo]', x=241.30, y=131.00, z=-356.50] died, message: 'Fletcher was slain by Zombie'
-[03:35:48] [Server thread/INFO]: Villager class_1646['Fletcher'/15768, l='ServerLevel[Mundo nuevo]', x=241.30, y=131.00, z=-354.50] died, message: 'Fletcher was slain by Zombie'
-[03:40:25] [Server thread/INFO]: Villager class_1646['Fletcher'/18776, l='ServerLevel[Mundo nuevo]', x=241.30, y=131.00, z=-356.50] died, message: 'Fletcher was slain by Zombie'
-[03:41:56] [Server thread/INFO]: Villager class_1646['Fletcher'/19151, l='ServerLevel[Mundo nuevo]', x=241.30, y=131.00, z=-354.50] died, message: 'Fletcher was slain by Zombie'
-[03:42:12] [Server thread/INFO]: Villager class_1646['Fletcher'/19413, l='ServerLevel[Mundo nuevo]', x=241.30, y=131.00, z=-358.50] died, message: 'Fletcher was slain by Zombie'
-[03:42:42] [Server thread/INFO]: Villager class_1646['Fletcher'/19109, l='ServerLevel[Mundo nuevo]', x=241.30, y=131.00, z=-352.50] died, message: 'Fletcher was slain by Zombie'
-[03:47:03] [Server thread/INFO]: [Not Secure] <negro147> zzzzzz
-[03:47:25] [Server thread/INFO]: Villager class_1646['Librarian'/238, l='ServerLevel[Mundo nuevo]', x=277.01, y=130.29, z=-332.33] died, message: 'Librarian was slain by Zombie'
-[03:48:51] [Server thread/INFO]: negro147 has made the advancement [Not Today, Thank You]
-[03:50:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=258, y=131, z=-331} class_2338{x=257, y=132, z=-331}
-[03:51:55] [Server thread/INFO]: [Not Secure] <diegorompecks> negro
-[03:51:57] [Server thread/INFO]: [Not Secure] <diegorompecks> busca tierra.
-[04:01:16] [Server thread/INFO]: Villager class_1646['Fletcher'/22601, l='ServerLevel[Mundo nuevo]', x=241.30, y=131.00, z=-352.50] died, message: 'Fletcher was slain by Zombie'
-[04:01:17] [Server thread/INFO]: Villager class_1646['Fletcher'/22574, l='ServerLevel[Mundo nuevo]', x=241.30, y=131.00, z=-354.50] died, message: 'Fletcher was slain by Zombie'
-[04:02:22] [Server thread/INFO]: [Not Secure] <negro147> pa mi es más seguro talar madera
-[04:02:24] [Server thread/INFO]: [Not Secure] <diegorompecks> negro q haces
-[04:02:33] [Server thread/INFO]: [Not Secure] <diegorompecks> negro anda con geraldo
-[04:02:34] [Server thread/INFO]: [Not Secure] <diegorompecks> luego aplanan
-[04:03:30] [Server thread/INFO]: Villager class_1646['Fletcher'/22683, l='ServerLevel[Mundo nuevo]', x=241.30, y=131.00, z=-358.50] died, message: 'Fletcher was slain by Zombie'
-[04:03:38] [Server thread/INFO]: Villager class_1646['Fletcher'/20971, l='ServerLevel[Mundo nuevo]', x=241.30, y=131.00, z=-356.50] died, message: 'Fletcher was slain by Zombie'
-[04:09:14] [Server thread/INFO]: negro147 has made the advancement [Diamonds!]
-[04:09:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=256, y=111, z=-241} class_2338{x=257, y=110, z=-239}
-[04:09:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=256, y=111, z=-241} class_2338{x=257, y=110, z=-239}
-[04:09:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=256, y=111, z=-241} class_2338{x=257, y=110, z=-239}
-[04:09:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=256, y=111, z=-241} class_2338{x=257, y=110, z=-239}
-[04:09:53] [Server thread/INFO]: negro147 has made the advancement [Take Aim]
-[04:14:09] [Server thread/WARN]: panconcafe68 moved too quickly! -9.832821603694242,-1.2315237975870161,-2.4905261428436916
-[04:14:48] [Server thread/INFO]: panconcafe68 lost connection: Disconnected
-[04:14:48] [Server thread/INFO]: panconcafe68 left the game
-[04:15:29] [Server thread/INFO]: panconcafe68[/127.84.73.252:54405] logged in with entity id 34992 at (751.2373628014869, 66.0, -1096.9350002857002)
-[04:15:29] [Server thread/INFO]: panconcafe68 joined the game
-[04:16:33] [Server thread/INFO]: [Not Secure] <diegorompecks> richard
-[04:16:35] [Server thread/INFO]: [Not Secure] <diegorompecks> estas bug?
-[04:16:36] [Server thread/INFO]: panconcafe68 lost connection: Disconnected
-[04:16:36] [Server thread/INFO]: panconcafe68 left the game
-[04:16:38] [Server thread/INFO]: [Not Secure] <diegorompecks> no nos escuchas
-[04:16:45] [Server thread/INFO]: panconcafe68[/127.84.73.252:38539] logged in with entity id 35677 at (745.1477580683854, 65.79673560066871, -1223.8775949766373)
-[04:16:45] [Server thread/INFO]: panconcafe68 joined the game
-[04:17:15] [Server thread/INFO]: panconcafe68 lost connection: Timed out
-[04:17:15] [Server thread/INFO]: panconcafe68 left the game
-[04:17:15] [Server thread/WARN]: handleDisconnection() called twice
-[04:17:36] [Server thread/INFO]: panconcafe68[/127.84.73.252:40513] logged in with entity id 36049 at (724.5362157988776, 64.40739540236494, -1226.1521822140774)
-[04:17:36] [Server thread/INFO]: panconcafe68 joined the game
-[04:18:36] [Server thread/INFO]: panconcafe68 lost connection: Timed out
-[04:18:36] [Server thread/INFO]: panconcafe68 left the game
-[04:18:39] [Server thread/INFO]: [Not Secure] <negro147> ..
-[04:18:41] [Server thread/INFO]: panconcafe68[/127.84.73.252:36933] logged in with entity id 36532 at (730.6856506323793, 18.00133597911215, -1209.699999988079)
-[04:18:41] [Server thread/INFO]: panconcafe68 joined the game
-[04:21:30] [Server thread/INFO]: [Not Secure] <negro147> Zzzzz
-[04:24:37] [Server thread/INFO]: negro147 lost connection: Disconnected
-[04:24:37] [Server thread/INFO]: negro147 left the game
-[04:25:01] [Server thread/WARN]: Zodiac_I1 moved too quickly! 8.931663549940538,0.0,-5.002950886681504
-[04:25:57] [Server thread/INFO]: panconcafe68 lost connection: Timed out
-[04:25:57] [Server thread/INFO]: panconcafe68 left the game
-[04:25:58] [Server thread/WARN]: Zodiac_I1 moved too quickly! -9.165257648415547,1.2491870787446828,4.192716463641148
-[04:26:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@67ed2fa1[id=f8a46945-31d7-3d25-a3bc-dd52fef732ee,name=panconcafe68,properties={}] lost connection: Disconnected
-[04:26:34] [Server thread/INFO]: panconcafe68[/127.84.73.252:45399] logged in with entity id 40322 at (733.8221354317859, -33.58000001311302, -1164.195085790515)
-[04:26:34] [Server thread/INFO]: panconcafe68 joined the game
-[04:27:46] [Server thread/WARN]: Zodiac_I1 was kicked for floating too long!
-[04:27:46] [Server thread/INFO]: Zodiac_I1 lost connection: Flying is not enabled on this server
-[04:27:46] [Server thread/INFO]: Zodiac_I1 left the game
-[04:28:06] [Server thread/INFO]: Zodiac_I1[/127.27.221.59:44753] logged in with entity id 40887 at (234.425531849723, 132.7531999805212, -342.2529289805321)
-[04:28:06] [Server thread/INFO]: Zodiac_I1 joined the game
-[04:30:04] [Server thread/INFO]: panconcafe68 lost connection: Disconnected
-[04:30:04] [Server thread/INFO]: panconcafe68 left the game
-[04:30:15] [Server thread/INFO]: panconcafe68[/127.84.73.252:45899] logged in with entity id 41985 at (784.8440179234924, -23.0, -1266.3375019905063)
-[04:30:15] [Server thread/INFO]: panconcafe68 joined the game
-[04:31:13] [Server thread/INFO]: [Not Secure] <diegorompecks> paa dnd subimos
-[04:39:46] [Server thread/INFO]: [Not Secure] <diegorompecks> 950 -1321
-[04:47:36] [Server thread/INFO]: [Not Secure] <Zodiac_I1> 245 114 -439
-[04:56:45] [Server thread/INFO]: Villager class_1646['Fletcher'/40945, l='ServerLevel[Mundo nuevo]', x=241.30, y=131.00, z=-358.50] died, message: 'Fletcher was slain by Zombie'
-[04:59:51] [Server thread/INFO]: Villager class_1646['Fletcher'/40946, l='ServerLevel[Mundo nuevo]', x=241.30, y=131.00, z=-356.50] died, message: 'Fletcher was slain by Zombie'
-[05:08:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=294, y=131, z=-343} class_2338{x=294, y=130, z=-344}
-[05:14:09] [Server thread/INFO]: [Not Secure] <diegorompecks> 285 -244
-[05:17:54] [Server thread/INFO]: Villager class_1646['Fletcher'/57604, l='ServerLevel[Mundo nuevo]', x=241.30, y=131.00, z=-358.50] died, message: 'Fletcher was slain by Zombie'
-[05:25:34] [Server thread/INFO]: [Not Secure] <diegorompecks> -95 -500
-[05:29:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=-460} class_2338{x=-41, y=65, z=-460}
-[05:29:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=65, z=-460} class_2338{x=-42, y=64, z=-460}
-[05:31:02] [Server thread/INFO]: Zodiac_I1 lost connection: Disconnected
-[05:31:02] [Server thread/INFO]: Zodiac_I1 left the game
-[05:52:23] [Server thread/INFO]: Villager class_1646['Librarian'/70596, l='ServerLevel[Mundo nuevo]', x=241.30, y=131.00, z=-332.50] died, message: 'Librarian was slain by Zombie'
-[05:57:22] [Server thread/INFO]: Villager class_1646['Librarian'/70606, l='ServerLevel[Mundo nuevo]', x=240.84, y=131.00, z=-336.60] died, message: 'Librarian was slain by Zombie'
-[05:59:53] [Server thread/INFO]: negro147[/127.84.73.252:36709] logged in with entity id 78052 at (465.3151011735278, 67.0, 18.206176566167596)
-[05:59:53] [Server thread/INFO]: negro147 joined the game
-[06:01:57] [Server thread/INFO]: Villager class_1646['Librarian'/70597, l='ServerLevel[Mundo nuevo]', x=240.47, y=131.00, z=-333.70] died, message: 'Librarian was slain by Zombie'
-[06:08:10] [Server thread/INFO]: [Not Secure] <diegorompecks> NEGRO
-[06:08:13] [Server thread/INFO]: [Not Secure] <diegorompecks> dame esmeraldas
-[06:08:13] [Server thread/INFO]: [Not Secure] <diegorompecks> porfa
-[06:08:24] [Server thread/INFO]: [Not Secure] <diegorompecks> estas depra
-[06:08:27] [Server thread/INFO]: [Not Secure] <diegorompecks> como no vas a tener
-[06:08:29] [Server thread/INFO]: [Not Secure] <diegorompecks> lambucio de mrd
-[06:08:37] [Server thread/INFO]: [Not Secure] <negro147> :v
-[06:08:42] [Server thread/INFO]: [Not Secure] <diegorompecks> dame 30
-[06:08:44] [Server thread/INFO]: [Not Secure] <diegorompecks> por lo menos
-[06:08:45] [Server thread/INFO]: [Not Secure] <negro147> te di madera
-[06:08:51] [Server thread/INFO]: [Not Secure] <negro147> no tengo
-[06:08:54] [Server thread/INFO]: [Not Secure] <diegorompecks> alv
-[06:08:58] [Server thread/INFO]: [Not Secure] <diegorompecks> y dnd te gastastes las 3 horas
-[06:09:00] [Server thread/INFO]: [Not Secure] <negro147> revísale el inv si queres
-[06:09:36] [Server thread/INFO]: [Not Secure] <negro147> prote 4 y filo 5 y fortuna 3 y reparación
-[06:17:45] [Server thread/INFO]: diegorompecks has made the advancement [Take Aim]
-[06:22:05] [Server thread/INFO]: [Not Secure] <negro147> cállate y dormíte mano
-[06:23:16] [Server thread/INFO]: diegorompecks lost connection: Disconnected
-[06:23:16] [Server thread/INFO]: diegorompecks left the game
-[06:26:22] [Server thread/WARN]: Player negro147 just tried to change non-editable sign
+[15:33:08] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/caramonda/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[15:33:16] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:33:18] [main/INFO]: Loaded 1290 recipes
+[15:33:19] [main/INFO]: Loaded 1399 advancements
+[15:33:19] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[15:33:19] [Server thread/INFO]: Loading properties
+[15:33:19] [Server thread/INFO]: Default game type: SURVIVAL
+[15:33:19] [Server thread/INFO]: Generating keypair
+[15:33:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:33:20] [Server thread/INFO]: Using epoll channel type
+[15:33:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:33:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:33:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:33:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:33:20] [Server thread/INFO]: Preparing level "world"
+[15:33:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:33:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:33:25] [Server thread/INFO]: Time elapsed: 557 ms
+[15:33:25] [Server thread/INFO]: Done (5.221s)! For help, type "help"
+[15:36:22] [Server thread/INFO]: diegorompecks[/127.39.20.82:60677] logged in with entity id 7 at (249.57667202269258, 132.0, -355.5197514841209)
+[15:36:22] [Server thread/INFO]: diegorompecks joined the game
