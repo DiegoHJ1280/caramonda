@@ -74,3 +74,14 @@
 [04:02:34] [Server thread/INFO]: [Not Secure] <diegorompecks> luego aplanan
 [04:03:30] [Server thread/INFO]: Villager class_1646['Fletcher'/22683, l='ServerLevel[Mundo nuevo]', x=241.30, y=131.00, z=-358.50] died, message: 'Fletcher was slain by Zombie'
 [04:03:38] [Server thread/INFO]: Villager class_1646['Fletcher'/20971, l='ServerLevel[Mundo nuevo]', x=241.30, y=131.00, z=-356.50] died, message: 'Fletcher was slain by Zombie'
+[04:09:14] [Server thread/INFO]: negro147 has made the advancement [Diamonds!]
+[04:09:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=256, y=111, z=-241} class_2338{x=257, y=110, z=-239}
+[04:09:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=256, y=111, z=-241} class_2338{x=257, y=110, z=-239}
+[04:09:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=256, y=111, z=-241} class_2338{x=257, y=110, z=-239}
+[04:09:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=256, y=111, z=-241} class_2338{x=257, y=110, z=-239}
+[04:09:53] [Server thread/INFO]: negro147 has made the advancement [Take Aim]
+[04:14:09] [Server thread/WARN]: panconcafe68 moved too quickly! -9.832821603694242,-1.2315237975870161,-2.4905261428436916
+[04:14:48] [Server thread/INFO]: panconcafe68 lost connection: Disconnected
+[04:14:48] [Server thread/INFO]: panconcafe68 left the game
+[04:15:29] [Server thread/INFO]: panconcafe68[/127.84.73.252:54405] logged in with entity id 34992 at (751.2373628014869, 66.0, -1096.9350002857002)
+[04:15:29] [Server thread/INFO]: panconcafe68 joined the game
